@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FirstSolutions.UserInterface.Desktop.DesktopApp/1.0.0": {
+        "runtime": {
+          "FirstSolutions.UserInterface.Desktop.DesktopApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstSolutions.UserInterface.Desktop.DesktopApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

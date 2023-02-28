@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "FirstSolution.UserInterface.Desktop.Pessoas/1.0.0": {
+        "runtime": {
+          "FirstSolution.UserInterface.Desktop.Pessoas.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "FirstSolution.UserInterface.Desktop.Pessoas/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,17 @@
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\bin\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.exe
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\bin\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.deps.json
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\bin\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.runtimeconfig.json
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\bin\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.dll
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\bin\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.pdb
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.Form1.resources
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.dll
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\refint\FirstSolutions.UserInterface.Desktop.DesktopApp.dll
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.pdb
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\FirstSolutions.UserInterface.Desktop.DesktopApp.genruntimeconfig.cache
+C:\Users\Aluno\Desktop\firstSolution\FirstSolutions.UserInterface.Desktop.DesktopApp\obj\Debug\net7.0-windows\ref\FirstSolutions.UserInterface.Desktop.DesktopApp.dll
