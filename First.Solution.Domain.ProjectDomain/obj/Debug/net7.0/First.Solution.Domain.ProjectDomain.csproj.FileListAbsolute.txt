@@ -10,3 +10,15 @@ C:\Users\Aluno\Desktop\firstSolution\First.Solution.Domain.ProjectDomain\obj\Deb
 C:\Users\Aluno\Desktop\firstSolution\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\refint\First.Solution.Domain.ProjectDomain.dll
 C:\Users\Aluno\Desktop\firstSolution\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.pdb
 C:\Users\Aluno\Desktop\firstSolution\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\ref\First.Solution.Domain.ProjectDomain.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\bin\Debug\net7.0\First.Solution.Domain.ProjectDomain.deps.json
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\bin\Debug\net7.0\First.Solution.Domain.ProjectDomain.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\bin\Debug\net7.0\First.Solution.Domain.ProjectDomain.pdb
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\refint\First.Solution.Domain.ProjectDomain.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\First.Solution.Domain.ProjectDomain.pdb
+C:\Users\Aluno\Desktop\alcides\c-Project\First.Solution.Domain.ProjectDomain\obj\Debug\net7.0\ref\First.Solution.Domain.ProjectDomain.dll

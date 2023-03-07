@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj": {}
+    "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj": {
+    "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj",
+        "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj",
         "projectName": "FirstSolution.Domain.DTO",
-        "projectPath": "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj",
+        "projectPath": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolution.Domain.DTO\\FirstSolution.Domain.DTO.csproj",
         "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolution.Domain.DTO\\obj\\",
+        "outputPath": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolution.Domain.DTO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

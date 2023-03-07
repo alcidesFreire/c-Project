@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolutions.UserInterface.Desktop.DesktopApp\\FirstSolutions.UserInterface.Desktop.DesktopApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolutions.UserInterface.Desktop.DesktopApp\\FirstSolutions.UserInterface.Desktop.DesktopApp.csproj",
       "projectName": "FirstSolutions.UserInterface.Desktop.DesktopApp",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolutions.UserInterface.Desktop.DesktopApp\\FirstSolutions.UserInterface.Desktop.DesktopApp.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolutions.UserInterface.Desktop.DesktopApp\\FirstSolutions.UserInterface.Desktop.DesktopApp.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\firstSolution\\FirstSolutions.UserInterface.Desktop.DesktopApp\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\FirstSolutions.UserInterface.Desktop.DesktopApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",

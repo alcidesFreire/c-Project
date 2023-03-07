@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\firstSolution\\ConsoleApp1\\FirstSolution.userInterface.Console.ConsoleApp.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\ConsoleApp1\\FirstSolution.userInterface.Console.ConsoleApp.csproj",
       "projectName": "FirstSolution.userInterface.Console.ConsoleApp",
-      "projectPath": "C:\\Users\\Aluno\\Desktop\\firstSolution\\ConsoleApp1\\FirstSolution.userInterface.Console.ConsoleApp.csproj",
+      "projectPath": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\ConsoleApp1\\FirstSolution.userInterface.Console.ConsoleApp.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\Desktop\\firstSolution\\ConsoleApp1\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\ConsoleApp1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Aluno\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Aluno\\Desktop\\firstSolution\\First.Solution.Domain.ProjectDomain\\First.Solution.Domain.ProjectDomain.csproj": {
-              "projectPath": "C:\\Users\\Aluno\\Desktop\\firstSolution\\First.Solution.Domain.ProjectDomain\\First.Solution.Domain.ProjectDomain.csproj"
+            "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\First.Solution.Domain.ProjectDomain\\First.Solution.Domain.ProjectDomain.csproj": {
+              "projectPath": "C:\\Users\\Aluno\\Desktop\\alcides\\c-Project\\First.Solution.Domain.ProjectDomain\\First.Solution.Domain.ProjectDomain.csproj"
             }
           }
         }

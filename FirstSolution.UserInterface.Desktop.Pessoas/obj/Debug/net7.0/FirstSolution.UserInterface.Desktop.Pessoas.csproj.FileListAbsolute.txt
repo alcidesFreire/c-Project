@@ -10,3 +10,15 @@ C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Desktop.Pessoas
 C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\refint\FirstSolution.UserInterface.Desktop.Pessoas.dll
 C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.pdb
 C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\ref\FirstSolution.UserInterface.Desktop.Pessoas.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\bin\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.deps.json
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\bin\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\bin\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.pdb
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.AssemblyInfoInputs.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.AssemblyInfo.cs
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\refint\FirstSolution.UserInterface.Desktop.Pessoas.dll
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\FirstSolution.UserInterface.Desktop.Pessoas.pdb
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Desktop.Pessoas\obj\Debug\net7.0\ref\FirstSolution.UserInterface.Desktop.Pessoas.dll
