@@ -1,8 +1,10 @@
 {
   "ExpandedNodes": [
     "",
-    "\\ConsoleApp1"
+    "\\First.Solution.Domain.ProjectDomain",
+    "\\FirstSolution.UserInterface.Console.ConsoleApp",
+    "\\FirstSolution.UserInterface.Desktop.Pessoas"
   ],
-  "SelectedNode": "\\ConsoleApp1\\Program.cs",
+  "SelectedNode": "\\FirstSolution.UserInterface.Console.ConsoleApp\\Program.cs",
   "PreviewInSolutionExplorer": false
 }

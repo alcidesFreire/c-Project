@@ -6,3 +6,8 @@ C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Console.Console
 C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.csproj.CoreCompileInputs.cache
 C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.exe
 C:\Users\Aluno\Desktop\firstSolution\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.pdb
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.exe
+C:\Users\Aluno\Desktop\alcides\c-Project\FirstSolution.UserInterface.Console.ConsoleApp\obj\Debug\FirstSolution.UserInterface.Console.ConsoleApp.pdb
