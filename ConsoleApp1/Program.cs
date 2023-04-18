@@ -17,8 +17,9 @@ namespace FirstSolution.userInterface.Console.ConsoleApp
         {
             while (true)
             {
-                System.Console.WriteLine("ola, digite a ação 1-cadastro de aluno 2-cadastro de atividade  3-alt aluno 4-alt atividade 5-aluno exc 6-atividade exc " +
-                    "7- ler atividades 8-ler alunos 9-sair");
+                System.Console.WriteLine("ola, digite a ação 1-cadastro de aluno 2-cadastro de atividade  3-cadastro de atividade complementar 4-alteracao de alunos" +
+                    " 5-alteracao de atividades 6-alteração de atividade complementar " +
+                    "7-excluir alunos 8-excluir atividades 9-excluir atividade complementar  10-ler atividades 11-ler alunos 12-ler atividade complementar 13-sair");
                 int op = Int32.Parse(System.Console.ReadLine());
 
                 switch (op)
@@ -48,7 +49,7 @@ namespace FirstSolution.userInterface.Console.ConsoleApp
                         break;
 
                         //cadastro de atividade complementar
-                    case 10:
+                    case 3:
                         System.Console.WriteLine("digite o id da atividade complementar:");
                         int AtividadeComplementarID = Int32.Parse(System.Console.ReadLine());
                         System.Console.WriteLine("digite a data da atividade:");
@@ -73,7 +74,7 @@ namespace FirstSolution.userInterface.Console.ConsoleApp
                         break;  
 
                     //alteracao de alunos
-                    case 3:
+                    case 4:
 
                         System.Console.WriteLine("digite o id do aluno a alterar:");
                         int idAlunoAlterar = Int32.Parse(System.Console.ReadLine());
@@ -91,7 +92,7 @@ namespace FirstSolution.userInterface.Console.ConsoleApp
                         break;
 
                     //alteracao de atividades
-                    case 4:
+                    case 5:
                         System.Console.WriteLine("digite o id da atividade a alterar");
                         int idAtividadeAlterar = Int32.Parse(System.Console.ReadLine());
                         var atividadeAlterar = GetTipoAtividade(idAtividadeAlterar);
@@ -104,16 +105,24 @@ namespace FirstSolution.userInterface.Console.ConsoleApp
                         break;
 
                     //alteração de atividade complementar
-                    case 11:
+                    case 6:
                         System.Console.WriteLine("digite o id da atividade complementar a alterar");
                         int idAtividadeComplementarAlterar = Int32.Parse(System.Console.ReadLine());
                         var atividadeComplementarAlterar = GetAtividadeComplementar(idAtividadeComplementarAlterar);
-                        if (atividadeAlterar == null) continue;
-                        System.Console.WriteLine("digite a");
-                        
-
+                        if (atividadeComplementarAlterar == null) continue;
+                        System.Console.WriteLine("digite a nova Data");
+                        DateTime novaAtividadeComplementar = DateTime.Parse(System.Console.ReadLine());
+                        System.Console.WriteLine("digite a nova instituição:");
+                        string novaInstituicao = System.Console.ReadLine();
+                        System.Console.WriteLine("digite o novo ano de formação:");
+                        int novoAnoFormacao = Int32.Parse(System.Console.ReadLine());
+                        atividadeComplementarAlterar.AnoFormacao = novoAnoFormacao; 
+                        atividadeComplementarAlterar.Instituicao = novaInstituicao;
+                        atividadeComplementarAlterar.Data = novaAtividadeComplementar;
+                     
+                        break;
                     //excluir alunos
-                    case 5:
+                    case 7:
                         System.Console.WriteLine("digite o id do aluno a ser excluido:");
                         int idAlunoExcluir = Int32.Parse(System.Console.ReadLine());
                         var alunoExcluir = GetPessoa(idAlunoExcluir);
@@ -121,16 +130,23 @@ namespace FirstSolution.userInterface.Console.ConsoleApp
                         break;
 
                     //excluir atividades
-                    case 6:
+                    case 8:
                         System.Console.WriteLine("digite o id da atividade a ser excluida");
                         int idAtividadeExcluir = Int32.Parse(System.Console.ReadLine());
                         var atividadeExcluir = GetTipoAtividade(idAtividadeExcluir);
                         listaAtividade.Remove(atividadeExcluir);
                       
                         break;
+                    //excluir atividade complementar
+                    case 9:
+                        System.Console.WriteLine("digite o id da atividade complementar a ser excluida:");
+                        int idAtividadeComplementarExcluir = Int32.Parse(System.Console.ReadLine());
+                        var atividadeComplementarExcluir = GetAtividadeComplementar(idAtividadeComplementarExcluir);
+                        listaAtividadeComplementar.Remove(atividadeComplementarExcluir);
+                        break;
 
                     //ler atividades
-                    case 7:
+                    case 10:
                         foreach(var t2 in listaAtividade)
                         {
                             System.Console.WriteLine("id: " + t2.TipoAtividadeID + "descricao: " + t2.Descricao);
@@ -141,16 +157,24 @@ namespace FirstSolution.userInterface.Console.ConsoleApp
                         break;
 
                     //ler alunos
-                    case 8:
+                    case 11:
                         foreach(var p2 in listaPessoa)
                         {
                             System.Console.WriteLine("id: " + p2.PessoaID + "nome: " + p2.Nome + "data de nascimento" + p2.DataNascimento);
                         }
                         
                         break;
+                    //ler atividade complementar        
+                    case 12:
+                        foreach(var ac in listaAtividadeComplementar)
+                        {
+                            System.Console.WriteLine("id: " + ac.AtividadeComplementarId + "data: " + ac.Data + "aluno: " + ac.Aluno + "tipo de atividade: " 
+                                + ac.Tipo + "instituição: " + ac.Instituicao + "ano de formação: " + ac.AnoFormacao);
+                        }
+                        break;
 
                     //sair
-                    case 9:
+                    case 13:
                         Environment.Exit(0);
                         break;
                 }
